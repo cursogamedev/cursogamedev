@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contato@cursogame.dev
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: I will cry if I saw dog videos
+
+
+teste
