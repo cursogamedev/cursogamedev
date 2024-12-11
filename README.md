@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I will cry if I saw dog videos
 
 
-teste
+Commitando pela primeira vez por linha de comando
